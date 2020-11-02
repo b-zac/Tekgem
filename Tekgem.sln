@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tekgem", "Tekgem\Tekgem.csproj", "{B6180D44-07C3-4FDF-8F33-9F8FAE0EE4BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tekgem.Tests", "Tekgem.Tests\Tekgem.Tests.csproj", "{0D138338-D13C-4264-871E-94743CDED575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitySearch", "CitySearch\CitySearch.csproj", "{8778AEAA-F10E-4723-99C9-C931D25B9E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6180D44-07C3-4FDF-8F33-9F8FAE0EE4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6180D44-07C3-4FDF-8F33-9F8FAE0EE4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6180D44-07C3-4FDF-8F33-9F8FAE0EE4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6180D44-07C3-4FDF-8F33-9F8FAE0EE4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D138338-D13C-4264-871E-94743CDED575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D138338-D13C-4264-871E-94743CDED575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D138338-D13C-4264-871E-94743CDED575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D138338-D13C-4264-871E-94743CDED575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8778AEAA-F10E-4723-99C9-C931D25B9E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8778AEAA-F10E-4723-99C9-C931D25B9E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8778AEAA-F10E-4723-99C9-C931D25B9E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8778AEAA-F10E-4723-99C9-C931D25B9E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEEC9C38-1C79-499B-96F6-BCEE1A2EF155}
+	EndGlobalSection
+EndGlobal

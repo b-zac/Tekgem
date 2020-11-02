@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tekgem/1.0.0": {
+        "dependencies": {
+          "CitySearch": "1.0.0"
+        },
+        "runtime": {
+          "Tekgem.dll": {}
+        }
+      },
+      "CitySearch/1.0.0": {
+        "runtime": {
+          "CitySearch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tekgem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CitySearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

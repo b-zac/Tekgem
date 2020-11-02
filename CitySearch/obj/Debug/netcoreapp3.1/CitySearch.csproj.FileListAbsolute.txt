@@ -1,0 +1,9 @@
+C:\Users\Bartosz\source\repos\Tekgem\CitySearch\bin\Debug\netcoreapp3.1\CitySearch.deps.json
+C:\Users\Bartosz\source\repos\Tekgem\CitySearch\bin\Debug\netcoreapp3.1\CitySearch.dll
+C:\Users\Bartosz\source\repos\Tekgem\CitySearch\bin\Debug\netcoreapp3.1\CitySearch.pdb
+C:\Users\Bartosz\source\repos\Tekgem\CitySearch\obj\Debug\netcoreapp3.1\CitySearch.csprojAssemblyReference.cache
+C:\Users\Bartosz\source\repos\Tekgem\CitySearch\obj\Debug\netcoreapp3.1\CitySearch.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\source\repos\Tekgem\CitySearch\obj\Debug\netcoreapp3.1\CitySearch.AssemblyInfoInputs.cache
+C:\Users\Bartosz\source\repos\Tekgem\CitySearch\obj\Debug\netcoreapp3.1\CitySearch.AssemblyInfo.cs
+C:\Users\Bartosz\source\repos\Tekgem\CitySearch\obj\Debug\netcoreapp3.1\CitySearch.dll
+C:\Users\Bartosz\source\repos\Tekgem\CitySearch\obj\Debug\netcoreapp3.1\CitySearch.pdb
